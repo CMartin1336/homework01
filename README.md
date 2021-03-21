@@ -16,7 +16,7 @@ Refactored code to make it more accessible
 6. Publish GitHub page
 
 ## Example
-![Example of semantic tagging](assets/images/Example.JPG)
+![Example of semantic tagging](assets/images/Example1.JPG)
 
 ## Live Project
 https://cmartin1336.github.io/homework01/
