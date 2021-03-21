@@ -16,9 +16,8 @@ Refactored code to make it more accessible
 6. Publish GitHub page
 
 ## Example
-```md
-    ![alt text](assets/images/example.jpg)
-    ```
+![Example of semantic tagging](assets/images/example.jpg)
+
 ## Live Project
 
 
